@@ -13,11 +13,11 @@ SCP:SL 服务器全境封锁
 在服务器关闭后将插件'SCPSL_CN_Ban.dll'放置到插件目录下再启动服务器即可 无需任何额外配置
 
 ## 提交云端封禁库
-* [点击这里提交](http://scpsl.exacg.cc/scpsl/tj.php) 
+[点击这里提交](http://scpsl.exacg.cc/scpsl/tj.php) 
 
 ## 下载
 [下载](https://github.com/EXACG/SCPSL-CN-Ban/releases) 
 
 ## 感激
 本插件基于此项目:
-* [SCPSL-Global-Ban](https://github.com/DomRR/SCPSL-Global-Ban) 
+[SCPSL-Global-Ban](https://github.com/DomRR/SCPSL-Global-Ban) 
