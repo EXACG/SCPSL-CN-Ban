@@ -15,7 +15,9 @@ SCP:SL 服务器全境封锁
 ## 提交云端封禁库
 * [点击这里提交](http://scpsl.exacg.cc/scpsl/tj.php) 
 
+## 下载
+[下载](https://github.com/EXACG/SCPSL-CN-Ban/releases) 
+
 ## 感激
 本插件基于此项目:
-
 * [SCPSL-Global-Ban](https://github.com/DomRR/SCPSL-Global-Ban) 
